@@ -2,10 +2,14 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./Components/Header";
 import LineUp from "./Components/LineUp";
+import Banner from "./Components/Banner";
+import Video from "./Components/Video";
 
 const Home = () => (
   <div>
     <LineUp />
+    <Banner />
+    <Video />
   </div>
 );
 
