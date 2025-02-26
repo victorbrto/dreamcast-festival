@@ -4,12 +4,15 @@ import Header from "./Components/Header";
 import LineUp from "./Components/LineUp";
 import Banner from "./Components/Banner";
 import Video from "./Components/Video";
+import Footer from "./Components/Footer";
 
 const Home = () => (
   <div>
     <LineUp />
     <Banner />
     <Video />
+    <Footer />
+
   </div>
 );
 
