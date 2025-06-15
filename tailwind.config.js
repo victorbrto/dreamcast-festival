@@ -9,6 +9,9 @@ export default {
       fontFamily: {
         sans: ['Montserrat', 'sans-serif'],
         heading: ['Roboto', 'sans-serif'],
+        probold: ['MYRIADPRO-BOLD', 'sans-serif'],
+        prolight: ['MyriadPro-Light', 'sans-serif'],
+        pronormal: ['MYRIADPRO-REGULAR', 'sans-serif']
       },
       colors: {
         teagreen: "#E3EEB6ff",

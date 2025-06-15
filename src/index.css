@@ -5,6 +5,28 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+    font-family: 'MYRIADPRO-BOLD';
+    src: url('./assets/fonts/MYRIADPRO-BOLD.otf');
+    font-weight: 'bold';
+    font-style: 'normal';
+}
+
+@font-face {
+    font-family: 'MyriadPro-Light';
+    src: url('./assets/fonts/MyriadPro-Light.otf');
+    font-weight: 'light';
+    font-style: 'normal';
+}
+
+@font-face {
+    font-family: 'MYRIADPRO-REGULAR';
+    src: url('./assets/fonts/MYRIADPRO-REGULAR.otf');
+    font-weight: 'regular';
+    font-style: 'normal';
+}
+
 body {
     background-color: black;
+
 }

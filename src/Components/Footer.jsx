@@ -14,7 +14,7 @@ const Footer = () => {
                         <li><a href="https://www.youtube.com/watch?v=80vKMh_iFJM" target="_blank" rel="noopener noreferrer" className="font-normal text-sm hover:text-gray-400">YouTube</a></li>
                         <li><a href="https://en.wikipedia.org/wiki/Dreamcast" target="_blank" rel="noopener noreferrer" className="font-normal text-sm hover:text-gray-400">X</a></li>
                         <li><a href="https://www.youtube.com/watch?v=ldgwAAwj9zs" target="_blank" rel="noopener noreferrer" className="font-normal text-sm hover:text-gray-400">Tumblr</a></li>
-                        <li className="text-sm">SoundCloud</li>
+                        <li><a href="https://www.soundcloud.com/arptucson" target="_blank" rel="noopener noreferrer" className="font-normal text-sm hover:text-gray-400">SoundCloud</a></li>
                     </ul>
                 </div>
                 {/*Newsletter*/}
