@@ -1,8 +1,11 @@
-# React + Vite
+# 🎶 Dreamcast Festival — Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma landing page para um festival de música eletrônica fictício.
 
-Currently, two official plugins are available:
+[🔗 Acesse o site aqui](https://victorbrto.github.io/dreamcast-festival)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌀 Sobre o projeto
+
+O **Dreamcast Festival** é um projeto de front-end idealizado com o intuito de praticar e demonstrar habilidades com **React**, **Tailwind CSS** e **Framer Motion**.
+
+A página simula um festival fictício, com seções de line-up, informações, newsletter e um layout totalmente responsivo, pensado para causar impacto visual e manter clareza na experiência do usuário.
