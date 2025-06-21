@@ -10,9 +10,9 @@ const Video = () => {
                 muted
                 playsInline
                 className="absolute w-full h-full object-cover"
-            ><source src="/videos/bg-video1.mp4" type="video/mp4" /></video>
+            ><source src="videos/bg-video1.mp4" type="video/mp4" /></video>
             <div id="info" className="relative w-full h-full">
-                <img src="/images/blurred-logo1.png" alt="Logo blur" className="hidden md:block w-full h-full" />
+                <img src="images/blurred-logo1.png" alt="Logo blur" className="hidden md:block w-full h-full" />
                 <Infos />
             </div>
         </section>

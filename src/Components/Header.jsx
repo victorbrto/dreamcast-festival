@@ -23,7 +23,7 @@ const Header = () => {
             <div className="container mx-auto flex justify-between items-center px-6 md:px-12 lg:px-32">
                 <div className="flex items-center space-x-4">
                     <Link to="/">
-                        <img src="/dreamcast-logo1.svg" alt="Dreamcast" className="h-10 w-auto" />
+                        <img src="dreamcast-logo1.svg" alt="Dreamcast" className="h-10 w-auto" />
                     </Link>
                     <div className="border-l-2 border-white pl-4 text-xs sm:text-sm leading-tight hidden sm:block">
                         <p className="font-semibold">23 e 24 de abril - 2026</p>

@@ -4,7 +4,7 @@ const LineUp = () => {
     return (
         <section
             className="bg-cover h-screen flex justify-center items-center"
-            style={{ backgroundImage: "url('/images/bg1.png')" }}
+            style={{ backgroundImage: "url('images/bg1.png')" }}
         >
             <div className="max-w-7xl mx-auto text-center space-y-6 sm:space-y-3 px-8 sm:px-0">
                 {/*title*/}
