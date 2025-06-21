@@ -18,7 +18,7 @@ const Home = () => (
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/dreamcast-festival">
       <Header />
       <main>
         <Routes>
